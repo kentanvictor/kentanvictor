@@ -2,7 +2,7 @@
     <img align="right" src='https://github-readme-stats.vercel.app/api?username=kentanvictor&show_icons=true&hide_border=true&icon_color=3F51B5&title_color=D4AC0D&hide=["contribs"]'>
 </a>  
 
-### Hi, it's Inno 👋
+### Hi, it's ZoeTam 👋
 
 A programming enthusiast, and now focus on `Knowledge Graph`.
 
