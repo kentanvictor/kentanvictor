@@ -4,11 +4,11 @@
 
 ### Hi, it's ZoeTam 👋
 
-A programming enthusiast, and now focus on `Knowledge Graph`.
+A programming enthusiast, and now focus on `Android Audio System`.
 
 - 📫 How to reach me: <kentanvictor@gmail.com>
 - ⚡ Fun fact: Trying to be creative
 
-<a href="https://github.com/InnoFang/InnoFang">
+<a href="https://github.com/kentanvictor">
     <img align="right" src="https://visitor-badge.laobi.icu//badge?page_id=kentanvictor.github.io">
 </a>   
