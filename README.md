@@ -2,11 +2,11 @@
     <img align="right" src='https://github-readme-stats.vercel.app/api?username=kentanvictor&show_icons=true&hide_border=true&icon_color=3F51B5&title_color=D4AC0D&hide=["contribs"]'>
 </a>  
 
-### Hi, it's ZoeTam 👋
+### Hi, it's ZhuoTan 👋
 
-A programming enthusiast, and now focus on `Android Audio System`.
+A programming enthusiast, and now focus on `Computer Graphics Image Algorithms`.
 
-- 📫 How to reach me: <kentanvictor@gmail.com>
+- 📫 How to reach me: <zxt010@student.bham.ac.uk>
 - ⚡ Fun fact: Trying to be creative
 
 <a href="https://github.com/kentanvictor">
