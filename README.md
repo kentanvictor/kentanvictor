@@ -6,7 +6,7 @@
 
 A programming enthusiast, and now focus on `Computer Graphics Image Algorithms`.
 
-- 📫 How to reach me: <zxt010@student.bham.ac.uk>
+- 📫 How to reach me: <kentanvictor@foxmail.com>
 - ⚡ Fun fact: Trying to be creative
 
 <a href="https://github.com/kentanvictor">
